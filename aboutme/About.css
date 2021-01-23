@@ -1,0 +1,30 @@
+h1 {
+    margin-left: 200px;
+    margin-top: 8vw;
+    font-family: Impact, serif;
+    font-size: 100px;
+    color: #333333;
+}
+
+p {
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: Impact, serif;
+}
+
+.space {
+    padding-bottom: 25px;
+}
+
+.flex {
+    display: flex;
+}
+.photo {
+    margin-left: 10vw;
+    margin-top: 10vw;
+}
+
+.photo2 {
+    margin-left: 25px;
+}
+

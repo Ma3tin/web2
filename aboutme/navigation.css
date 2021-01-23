@@ -1,0 +1,84 @@
+/*
+.me {
+    text-align: right;
+    margin-right: 20vw;
+}*/
+
+body {
+    margin: 0;
+    background-color: #1d1d1d;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #181818;
+    height: 100vh;
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed;
+    text-align: center;
+    font-family: Verdana,sans-serif;
+    line-height: 45px;
+}
+
+.page {
+    display: flex;
+    width: 100vw;
+
+}
+.social-media {
+
+}
+
+.fa-wifi {
+    padding-bottom: 25px;
+}
+
+.social-media a{
+    color: #eeebec;
+    font-size: 14px;
+    line-height: 5px;
+}
+
+.social-media :hover {
+    color: #08fdd8;
+}
+
+.profile-picture {
+    display: block;
+}
+
+.profile-picture img {
+    padding: 5px;
+    list-style: none;
+    text-decoration: none;
+    display: block;
+    margin: 5px 10px;
+}
+
+.me {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.me a {
+    color: #eeebec;
+}
+
+.me :hover {
+    color: #08fdd8;
+}
+
+.jack {
+    background-color: black;
+    padding: 2px 0;
+}
+
+.nava {
+}
